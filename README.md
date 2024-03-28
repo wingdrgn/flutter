@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+//flutter is not a commannd or flutter connect fail: zshrc
+
+
+//flutter图片显示问题 在pubsepc.yaml加assets: [images/]
